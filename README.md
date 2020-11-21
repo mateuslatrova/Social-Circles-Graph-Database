@@ -1,1 +1,1 @@
-# Social-Circles-Graph-Database-
+# Social Circles Graph Database

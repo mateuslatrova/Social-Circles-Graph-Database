@@ -39,8 +39,8 @@
 38 first_name;anonymized feature 356
 39 first_name;anonymized feature 357
 40 first_name;anonymized feature 358
-41 gender;anonymized feature 77
-42 gender;anonymized feature 78
+41 male
+42 female
 43 hometown;id;anonymized feature 359
 44 languages;id;anonymized feature 92
 45 languages;id;anonymized feature 97

@@ -61,8 +61,8 @@
 60 education;year;id;anonymized feature 71
 61 education;year;id;anonymized feature 259
 62 first_name;anonymized feature 323
-63 gender;anonymized feature 77
-64 gender;anonymized feature 78
+63 male
+64 female
 65 hometown;id;anonymized feature 128
 66 hometown;id;anonymized feature 263
 67 hometown;id;anonymized feature 84

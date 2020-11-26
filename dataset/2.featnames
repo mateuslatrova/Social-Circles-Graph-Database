@@ -84,8 +84,8 @@
 83 first_name;anonymized feature 260
 84 first_name;anonymized feature 261
 85 first_name;anonymized feature 262
-86 gender;anonymized feature 77
-87 gender;anonymized feature 78
+86 male
+78 female
 88 hometown;id;anonymized feature 128
 89 hometown;id;anonymized feature 263
 90 hometown;id;anonymized feature 84

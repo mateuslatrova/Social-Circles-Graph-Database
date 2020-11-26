@@ -75,8 +75,8 @@
 74 first_name;anonymized feature 74
 75 first_name;anonymized feature 75
 76 first_name;anonymized feature 76
-77 gender;anonymized feature 77
-78 gender;anonymized feature 78
+77 male
+78 female
 79 hometown;id;anonymized feature 79
 80 hometown;id;anonymized feature 80
 81 hometown;id;anonymized feature 81

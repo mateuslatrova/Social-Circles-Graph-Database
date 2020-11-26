@@ -10,7 +10,7 @@ http://viniciuscosta110.pythonanywhere.com/
 
 ## :rocket: Technologies
 
-This project was developed with this technologies:
+This project was developed with these technologies:
 
 - [Cytoscape](https://dash.plotly.com/cytoscape)
 - [Jupyter Notebook](https://jupyter.org/)

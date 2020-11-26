@@ -15,3 +15,5 @@ This project was developed with these technologies:
 - [Cytoscape](https://dash.plotly.com/cytoscape)
 - [Jupyter Notebook](https://jupyter.org/)
 - [Networkx](https://networkx.org/)
+- [Matplotlib](https://matplotlib.org/)
+

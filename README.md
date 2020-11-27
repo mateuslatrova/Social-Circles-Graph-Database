@@ -6,7 +6,7 @@
 
 # Project description
 
-Modeling and implementation of a Graph Database that represents a dataset collected from Facebook by Stanford University(access here: https://snap.stanford.edu/data/ego-Facebook.html) with the Python language. The dataset consists of users, info about their profiles and friendship between them.
+Modeling and implementation of a Graph Database that represents a dataset collected from Facebook by Stanford University(access [here](https://snap.stanford.edu/data/ego-Facebook.html)) with the Python language. The dataset consists of users, info about their profiles and friendship between them.
 
 # Deployed here
  

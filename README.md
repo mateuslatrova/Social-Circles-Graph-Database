@@ -4,13 +4,17 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/mateuslatrova/Social-Circles-Graph-Database">
 </p>
 
-# Project:
+# Project description
+
+Modeling and implementation of a Graph Database that represents a dataset collected from Facebook by Stanford University(access [here](https://snap.stanford.edu/data/ego-Facebook.html)) with the Python language. The dataset consists of users, info about their profiles and friendship between them.
+
+# Deployed here
  
 http://viniciuscosta110.pythonanywhere.com/
 
 ## :rocket: Technologies
 
-This project was developed with these technologies:
+This project was developed with:
 
 - [Cytoscape](https://dash.plotly.com/cytoscape)
 - [Jupyter Notebook](https://jupyter.org/)

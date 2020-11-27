@@ -1,20 +1,22 @@
 [{
   "selector": "node",
   "style": {
+    "shape": "triangle",
     "size": 500,
     "height": "50%",
     "width": "50%",
-    "background-color": "#333",
-    "label": "data(type)",
+    "background-color": "#5E1EA8",
+    "label": "data(id)",
     "text-valign": "center",
-    "text-halign": "left"
+    "text-halign": "left",
+    "opacity": "0.50"
   }
 }, {
   "selector": "edge",
   "style": {
     "width": 3,
-    "opacity": 0.666,
-    "line-color": "#888"
+    "opacity": 0.4,
+    "line-color": "#F5C151"
   }
 }, {
   "selector": "edge.bezier",
@@ -52,64 +54,76 @@
 }, {
   "selector": "node[[degree >= 2]]",
   "style": {
-    "background-color": "#992244",
     "height": "50%",
-    "width": "50%"
+    "width": "50%",
+    "opacity": "0.60"
   }
 }, {
   "selector": "node[[degree >= 3]]",
   "style": {
-    "background-color": "#000",
     "height": "55%",
-    "width": "55%"
+    "width": "55%",
+    "opacity": "0.65"
   }
 }, {
   "selector": "node[[degree >= 4]]",
   "style": {
-    "background-color": "purple",
     "height": "55%",
-    "width": "55%"
+    "width": "55%",
+    "opacity": "0.70"
   }
 }, {
   "selector": "node[[degree >= 5]]",
   "style": {
-    "background-color": "brown",
     "height": "60%",
-    "width": "60%"
+    "width": "60%",
+    "opacity": "0.75"
   }
 }, {
   "selector": "node[[degree >= 6]]",
   "style": {
-    "background-color": "yellow",
     "height": "60%",
-    "width": "60%"
+    "width": "60%",
+    "opacity": "0.80"
   }
 }, {
   "selector": "node[[degree >= 7]]",
   "style": {
-    "background-color": "forestgreen",
     "height": "65%",
-    "width": "65%"
+    "width": "65%",
+    "opacity": "0.85"
   }
 }, {
   "selector": "node[[degree >= 8]]",
   "style": {
-    "background-color": "chocolate",
     "height": "65%",
-    "width": "65%"
+    "width": "65%",
+    "opacity": "0.90"
   }
 }, {
   "selector": "node[[degree >= 9]]",
   "style": {
-    "background-color": "red",
     "height": "70%",
-    "width": "70%"
+    "width": "70%",
+    "opacity": "0.95"
   }
 }, {
   "selector": "node[[degree >= 10]]",
   "style": {
-    "background-color": "blue",
     "height": "70%",
-    "width": "70%"
+    "width": "70%",
+    "opacity": "1.0"
+  }
+}, {
+  "selector": "[male = '1']",
+  "style": {
+    "shape": "rectangle",
+    "background-color": "blue"
+  }
+}, {
+  "selector": "[female = '1']",
+  "style": {
+    "shape": "ellipse",
+    "background-color": "#A86F1E"
   }
 }]

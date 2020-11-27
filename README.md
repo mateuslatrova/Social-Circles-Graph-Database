@@ -4,11 +4,11 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/mateuslatrova/Social-Circles-Graph-Database">
 </p>
 
-# Project description:
+# Project description
 
-Modeling and implementation of a Graph Database using a dataset collected from Facebook by Stanford University. The dataset consists of users, friendships and info about the users profile.
+Modeling and implementation of a Graph Database using a dataset collected from Facebook by Stanford University. The dataset consists of users, info about their profiles and friendship between them.
 
-# Deployed here:
+# Deployed here
  
 http://viniciuscosta110.pythonanywhere.com/
 

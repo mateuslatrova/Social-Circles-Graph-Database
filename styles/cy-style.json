@@ -5,7 +5,7 @@
     "size": 500,
     "height": "50%",
     "width": "50%",
-    "background-color": "#5E1EA8",
+    "background-color": "red",
     "label": "data(id)",
     "text-valign": "center",
     "text-halign": "left",
@@ -16,7 +16,7 @@
   "style": {
     "width": 3,
     "opacity": 0.4,
-    "line-color": "#F5C151"
+    "line-color": "#1E73A8"
   }
 }, {
   "selector": "edge.bezier",
@@ -124,6 +124,6 @@
   "selector": "[female = '1']",
   "style": {
     "shape": "ellipse",
-    "background-color": "#A86F1E"
+    "background-color": "#EDC93B"
   }
 }]

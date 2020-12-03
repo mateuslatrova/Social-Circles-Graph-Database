@@ -16,8 +16,9 @@ http://viniciuscosta110.pythonanywhere.com/
 
 This project was developed with:
 
-- [Cytoscape](https://dash.plotly.com/cytoscape)
+- [MySQL](https://www.mysql.com/)
 - [Jupyter Notebook](https://jupyter.org/)
+- [Cytoscape](https://dash.plotly.com/cytoscape)
 - [Networkx](https://networkx.org/)
 - [Matplotlib](https://matplotlib.org/)
-
+- [Pandas](https://pandas.pydata.org/)

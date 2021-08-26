@@ -12,6 +12,9 @@ Modeling and implementation of a Graph Database that represents a dataset collec
  
 http://viniciuscosta110.pythonanywhere.com/
 
+# Sketch of the graph
+https://github.com/mateuslatrova/Social-Circles-Graph-Database/blob/main/socialCirclesSketch.jpg
+
 ## :rocket: Technologies
 
 This project was developed with:
